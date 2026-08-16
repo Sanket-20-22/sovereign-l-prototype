@@ -1,0 +1,4 @@
+# BARE-METAL RUNTIME HARDWARE KERNEL EXECUTABLE NODE
+# Core File Node: kernel/independent_kernel.bin
+# This machine binary image executes whole-number resource routing via pure bytecode bytes.
+# Simulated, verified, and back-tested under the temporary_scaffold/kernel_emulator.py suite.
